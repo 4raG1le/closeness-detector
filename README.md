@@ -33,6 +33,6 @@ pip install opencv-python
 pip install pygame
 pip install numpy
 ```
-5) Запустите проект.
+### 3. Запустите проект
 
 ![Запуск проекта](images/image3.png)
