@@ -26,8 +26,6 @@
 ![Открытие терминала](images/image1.png)
 ![Открытие терминала](images/image2.png)
 4) В терминале впишите следующие команды:
-5) 
-
 ```bash
 pip install threading
 pip install ultralytics
