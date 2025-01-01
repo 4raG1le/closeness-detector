@@ -25,4 +25,9 @@
 3) В появившемся окне найдите "галочку", нажмите на нее и выберите Command Prompt  
 ![Открытие терминала](images/image1.png)
 ![Открытие терминала](images/image2.png)
-pip install ultralytics opencv-python pygame numpy
+4) В терминале впишите следующие команды:
+```pip install threading
+```pip install ultralytics
+```pip install opencv-python
+```pip install pygame
+```pip install numpy
