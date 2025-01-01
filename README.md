@@ -29,7 +29,7 @@
 5) 
 
 ```bash
-pip install ultralytics
+pip install threading
 pip install ultralytics
 pip install opencv-python
 pip install pygame
