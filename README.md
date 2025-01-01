@@ -34,4 +34,5 @@ pip install pygame
 pip install numpy
 ```
 5) Запустите проект.
+
 ![Запуск проекта](images/image3.png)
