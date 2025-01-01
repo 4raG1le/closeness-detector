@@ -26,12 +26,10 @@
 ![Открытие терминала](images/image1.png)
 ![Открытие терминала](images/image2.png)
 4) В терминале впишите следующие команды:
+5) 
+
 ```pip install threading
-
 ```pip install ultralytics
-
 ```pip install opencv-python
-
 ```pip install pygame
-
 ```pip install numpy
