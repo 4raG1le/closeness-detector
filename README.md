@@ -28,7 +28,8 @@
 4) В терминале впишите следующие команды:
 5) 
 
-```pip install ultralytics```
+```bash
+pip install ultralytics
 pip install ultralytics
 pip install opencv-python
 pip install pygame
