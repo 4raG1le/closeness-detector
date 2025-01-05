@@ -36,10 +36,13 @@ pip install ultralytics
 pip install opencv-python
 pip install pygame
 pip install numpy
-pip install time
 ```
 ### 3. Выберите нужный режим обнаружения
 Нажмите на range_people_live_video.ipynb для live-режима (будет использоваться ваша камера) или используйте range_people_video.ipynb для обнаружения людей на заранее записанном видео
 ![Выбор режима](images/image3.png)
+Для продвинутых пользователей:
+Впишите cuda в кавычки, чтобы использовать видеокарту (cuda и pytorch должны быть установлены на ваш пк)
+![Выбор режима](images/cuda_or_cpu.png)
+
 ### 4. Запустите проект
 ![Запуск проекта](images/image3.png)
