@@ -36,7 +36,10 @@ pip install ultralytics
 pip install opencv-python
 pip install pygame
 pip install numpy
+pip install time
 ```
-### 3. Запустите проект
-
+### 3. Выберите нужный режим обнаружения
+Нажмите на range_people_live_video.ipynb для live-режима (будет использоваться ваша камера) или используйте range_people_video.ipynb для обнаружения людей на заранее записанном видео
+![Выбор режима](images/image3.png)
+### 4. Запустите проект
 ![Запуск проекта](images/image3.png)
