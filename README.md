@@ -42,7 +42,7 @@ pip install numpy
 ![Выбор режима](images/live_or_video.png) <br />
 Для продвинутых пользователей:
 Впишите cuda в кавычки, чтобы использовать видеокарту (cuda и pytorch должны быть установлены на ваш пк)
-![Выбор режима](images/cuda_or_cpu.png)
+![Выбор cuda](images/cuda_or_cpu.png)
 
 ### 4. Запустите проект
 ![Запуск проекта](images/image3.png)
